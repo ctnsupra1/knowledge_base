@@ -1,0 +1,2 @@
+customization:
+  custom-head: '/var/www/bookstack/resources/views/custom-head.blade.php'
